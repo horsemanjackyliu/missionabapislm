@@ -1,0 +1,8 @@
+{
+    "mcpServers": {
+        "sap-docs-remote": {
+            "type": "http",
+            "url": "https://mcp-sap-docs.marianzeis.de/mcp"
+        }
+    }
+}

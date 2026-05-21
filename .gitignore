@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+gen/
+mta_archives/
+*.zip
+.vscode/
+CLAUDE.md
+mission.md
+.claude/
